@@ -1,4 +1,4 @@
-binaries
-========
+Prebuilt binaries from the bsontools project for convenience in some cases.
 
-prebuilt binaries from peer projects here, and other downloadables
+See https://github.com/dwight/bsontools for more information.
+
